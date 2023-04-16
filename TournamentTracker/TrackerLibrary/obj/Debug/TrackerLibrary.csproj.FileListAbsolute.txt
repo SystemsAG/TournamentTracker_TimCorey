@@ -1,0 +1,16 @@
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\GIT\TimCorey\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\GIT\TournamentTracker\timcorey_example\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
